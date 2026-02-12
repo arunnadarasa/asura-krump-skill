@@ -1,1 +1,0 @@
-['Full Krump history content continues with all the detailed information about techniques, characters, crews, events, etc. as provided in the original message - shortened here for brevity]']
