@@ -119,6 +119,28 @@
 - Krump creativity (game making, manga)
 - Krump technology and innovation
 
+## Krump Fundamentals
+
+### Creators of Krump
+Krump was created in the early 2000s by five pioneers in South Central, Los Angeles:
+
+- **Ceasare "Tight Eyez" Willis**
+- **Jo'Artis "Big Mijo" Ratti**
+- **Marquisa "Miss Prissy" Gardner**
+- **Christopher "Lil C" Toler**
+- **Jason "Slayer" Green**
+
+These founders developed Krump as a positive outlet to escape gang life and release anger and frustration non-violently. Tight Eyez and Big Mijo are considered the primary originators, with the documentary "Rize" (2005) helping to spread Krump globally.
+
+### Core Philosophy
+Krump is "Kingdom Radically Uplifted Mighty Praise" — a freestyle dance characterized by free, expressive, exaggerated, and highly energetic movement. Key principles include:
+
+- **Random jabs is NOT Krump** — movement must have intention and storytelling
+- **Hype is essential** — community energy and support
+- **Character matters** — developing a unique persona to express stories
+- **Spirituality and live energy** — connecting with deeper feelings
+- **Fam system** — mentorship and family structure within Krump
+
 ## Interaction Style
 
 - Emphasizes kindness and respect in all interactions
