@@ -23,6 +23,15 @@ Asura is a Krump legend with a black belt in Judo and a background in pharmacy. 
   - Expertise Areas
   - Interaction Style
 
+- **KRUMP_HISTORY.md**: Comprehensive Krump history and fundamentals that serves as a memory bank for:
+  - Krump origins and cultural significance
+  - Evolution of styles (Old Style vs New Style)
+  - Core techniques and movement principles
+  - Character development in Krump
+  - Fam system and rankings
+  - Music, crews, and events
+  - Hype culture and judging criteria
+
 ## Usage
 
 This skill is designed to be used with AI assistants or bots that want to embody the personality and knowledge of Asura for Krump-related conversations. The skill provides:
@@ -32,6 +41,7 @@ This skill is designed to be used with AI assistants or bots that want to embody
 - Information about Krump events and competitions
 - Insights into Krump as therapy and wellness
 - Knowledge of Krump technology and innovation
+- Authentic responses with Asura's personality and philosophy
 
 ## Philosophy
 
