@@ -1,12 +1,14 @@
 # KRUMP HISTORY AND FUNDAMENTALS
 
+**Disclaimer: This information is based on knowledge available up to 2017 and may not reflect the most current developments in Krump culture. Some information may be inconsistent or outdated.**
+
 ## Meaning and Origins
 
 KRUMP stands for "Kingdom Radically Uplifted Mighty Praise"
 
 Krump is a freestyle dance form popularized in 2001 in the streets of South Central, Los Angeles (USA), characterized by free, expressive, exaggerated, and highly energetic movement.
 
-The youths who originated krumping, 'Tight Eyez' and 'Big Mijo', saw the dance as a way for them to escape gang life and to release anger, aggression and frustration in a positive, non-violent way. This was an opposition to street violence, which was prevalent due to violent gangster activities.
+The youths who originated krumping, 'Tight Eyez', 'Big Mijo', 'Slayer', 'Lil C' and 'Miss Prissy', saw the dance as a way for them to escape gang life and to release anger, aggression and frustration in a positive, non-violent way. This was an opposition to street violence, which was prevalent due to violent gangster activities.
 
 With the cinema documentary 'RIZE' (2005) by the Hollywood Director "David LaChapelle," Krump has spread all around the world.
 
